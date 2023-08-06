@@ -1,0 +1,252 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.a{
+    height: 800px;
+    width: 100%;
+    background-color: lightgray;
+
+}
+.b{
+    height: 100vh;
+    width: 100%;
+    background: url(Images/f1.jpg);
+    background-size: cover;
+}
+.ba{
+    font-size: 75px;
+    color: rgb(137, 82, 42);
+    padding-top: 50px;
+    padding-left: 50px;
+    display: flex;
+}
+.bb{
+    font-size: 75px;
+    color: rgb(137, 82, 42);
+    padding-top: 20px;
+    padding-left: 50px;
+    display: flex;
+}
+.bc{
+    font-size: 20px;
+    color: rgb(85, 70, 59);
+    padding-top: 50px;
+    padding-left: 50px;
+    display: flex;
+    
+}
+.bd{
+    font-size: 20px;
+    color: rgb(85, 70, 59);
+    padding-top: 15px;
+    padding-left: 50px;
+    display: flex;
+}
+.be{
+    height: 50px;
+    width: 200px;
+    background-color: azure;
+    border: 1px solid rgb(85, 70, 59) ;
+    margin-left: 50px;
+    margin-top: 25px;
+    border-radius: 50px;
+
+}
+
+.cover{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center; 
+    text-align: center;   
+    
+    
+
+}
+.box1,
+.box2,
+.box3{
+    width: 300px;
+    height: 320px;
+    background-color: white;
+    margin: 15px;
+    padding: 5px;
+    margin: 2px solid red;
+    text-align: center;
+}
+.c{
+    text-align: center;
+}
+.ca{
+    padding-top: 25px;
+    font-size: 75px;
+}
+div img{
+    width: 400px;
+    height: 300px;
+    border: 2px solid brown;
+    border-radius: 15px;
+    margin: 5px;
+}
+.d{
+    height: 650px;
+    width: 100%;
+    background-color: lightgray;
+}
+.d1{
+    padding-top: 30px;
+    text-align: center;
+    font-size: 50px;
+}
+.d2{
+    text-align: center;
+    padding-top: 20px;
+}
+.d3{
+    text-align: center;
+}
+.d4{
+    width: 100%;
+    height: 500px;
+}
+.d5{
+    height: 600px;
+    width: 20%;
+}
+.container{
+    display: flex;
+    box-sizing: border-box;
+    margin-top: 20px;
+    justify-content: center;
+}
+.card{
+    width: 100%;
+    height: 270px;
+    margin: 50px;
+    border: 1px solid lightgray;
+}
+.d4{
+    height: 50px;
+    width: 250px;
+    background-color: lightgray;
+    margin-left: 470px;
+    border-radius: 30px;
+}
+.l{
+	height: 300px;
+	width: 100%;
+	background-color: white;
+	margin-top: 30px;
+	
+}
+.la{
+	height: 300px;
+	width: 20%;
+	float: left;
+	background-color: white;
+	background-image: url('images/f8.jpg');
+	background-size: cover;
+    margin-left: 100px;
+	
+}
+.lb{
+	height: 300px;
+	width: 20%;
+	float: left;
+	background-color: white;
+	text-align: center;
+	margin-left: 18px;
+	border: 1px solid rgb(94, 59, 59);
+}
+.lc{
+	height: 300px;
+    width: 20%;
+	float: left;
+	background-color: white;
+	background-image: url('images/f9.jpg');
+	background-size: cover;
+	margin-left: 20px;
+}
+.ld{
+	height: 300px;
+	width: 20%;
+	float: left;
+	background-color: white;
+	text-align: center;
+	margin-left: 18px;
+	border: 1px solid  rgb(94, 59, 59);
+}
+.f{
+    height: 400px;
+    width: 100%;
+    background-color: lightgray ;
+    margin-top: 50px;
+}
+.f1{
+    height: 400px;
+    width: 45%;
+    background: url(Images/f10.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: left;
+
+
+}
+.f2{
+    width: 53%;
+    float: right;
+}
+.f6{
+    font-size: 50px;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.f7{
+    font-size: 15px;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.f8{
+    font-size: 15px;
+    padding-left: 30px;
+}
+.f3{
+    height: 50px;
+    width: 250px;
+    background-color: lightgray;
+    margin-left: 30px;
+    margin-top: 50px;
+    border-radius: 30px;
+}
+.alpha{
+    height: 300px;
+    width: 1000px;
+    
+    align-items: center;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.alpha1{
+    height:200px ;
+    width: 300px;
+    background-color:white;
+    float: left;
+    margin: 15px;
+    box-sizing: border-box;
+    padding-top:40px ;
+    text-align: center;
+}
+.beta1{
+    font-size: 20px;
+}
+.gama1{
+    color: grey;
+}
+.u{
+	height: 50px;
+	width: 100%;
+	background-color: grey;
+	text-align: center;
+    padding-top: 25px;
+}
